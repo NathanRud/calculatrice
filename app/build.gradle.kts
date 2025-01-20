@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "fr.nathanrud.calculette"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "fr.nathanrud.calculette"
